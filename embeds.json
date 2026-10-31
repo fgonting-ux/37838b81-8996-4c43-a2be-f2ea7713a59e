@@ -1,0 +1,211 @@
+{
+  "GENDER": {
+    "channelId": "1522598040744104048",
+    "messageId": "1524934876296511631",
+    "title": "PICK GENDER WITH BUTTON",
+    "description": "--------------------------------------------------\n----✦\n\n# ~~                                        ~~ ### PILIH ROLE DI BAWAH INI DENGAN MENEKAN TOMBOL DI BAWAH # ~~                                        ~~\n\n--------------------------------------------------\n----✦",
+    "color": "#FF0000",
+    "footer": "-# UNDERLIVES",
+    "buttons": [
+      {
+        "roleId": "1504085042203201696",
+        "label": "MALE",
+        "emoji": "♂️"
+      },
+      {
+        "roleId": "1504085292624252948",
+        "label": "FEMALE",
+        "emoji": "♀️"
+      },
+      {
+        "roleId": "1497910438376247296",
+        "label": "ANOTHER",
+        "emoji": "<:Cukub:1413826001133375559>"
+      }
+    ]
+  },
+  "AGE ROLES": {
+    "channelId": "1522598040744104048",
+    "messageId": "1524939767052238879",
+    "title": "AMBIL JALAN MU",
+    "description": "--------------------------------------------------\n----✦\n\n# ~~                                 ~~ **🩹 10 - 14** **🔞 14 - 17** **🍷 17 - 21** # ~~                                 ~~\n\n--------------------------------------------------\n----✦",
+    "color": "#FF0000",
+    "footer": null,
+    "buttons": [
+      {
+        "roleId": "1504085292624252948",
+        "label": "MASIH KECIL",
+        "emoji": "🩹"
+      },
+      {
+        "roleId": "1504085042203201696",
+        "label": "LUMAYAN",
+        "emoji": "🔞"
+      },
+      {
+        "roleId": "1497910438376247296",
+        "label": "COCOK",
+        "emoji": "🍷"
+      }
+    ]
+  },
+  "INDEX": {
+    "channelId": "1522598040744104048",
+    "messageId": "1524954998469824556",
+    "title": "AGE ROLES",
+    "description": "PILIH ROLE DI BAWAH INI DENGAN MENEKAN TOMBOL",
+    "color": "#0099ff",
+    "footer": null,
+    "buttons": []
+  },
+  "AGE ROLE EXAMPLE": {
+    "channelId": "1522598040744104048",
+    "messageId": "1524955753813639281",
+    "title": "AMBIL JALAN YANG KAMU TUJU",
+    "description": "PILIH ROLE DI BAWAH INI DENGAN MENEKAN TOMBOL DI BAWAH",
+    "color": "#0099ff",
+    "footer": null,
+    "buttons": [
+      {
+        "roleId": "1504085292624252948",
+        "label": "FEMALE",
+        "emoji": "♀️"
+      },
+      {
+        "roleId": "1504085042203201696",
+        "label": "MALE",
+        "emoji": "♂️"
+      },
+      {
+        "roleId": "1497910438376247296",
+        "label": "PRIVATE",
+        "emoji": "1️⃣"
+      }
+    ]
+  },
+  "Role": {
+    "channelId": "1521936990403301529",
+    "messageId": "1524993528118120461",
+    "title": "PILIH JALAN TAKDIR MU UNTUK MEMULAI HIDUP",
+    "description": "<@&1524990187871010949> : Kebereanian <@&1524989816402481243>  :  Kesabaran <@&1524989509970821251>  : tekad <@&1524990567367311521>  : kegigihan  <@&1524988907543072922> : Keadilan <@&1525015938695430264> : Kecerdasan <@&1525014664595898560>  : Kesombongan <@&1525013430958948445>  : Keserakahan <@&1525013140931350579>  : Kemalasan <@&1525013704339492934>  : Nafsu <@&1525014058150133830>  : Kemarahan <@&1525014299615952907>  : Kerakusan <@&1525014480738713651>  : Iri Hati",
+    "color": "#0099ff",
+    "footer": null,
+    "buttons": []
+  },
+  "Role Claim": {
+    "channelId": "1522598040744104048",
+    "messageId": "1525027499283583000",
+    "title": "PILIH TAKDIR MU UNTUK MEMULAI HIDUP",
+    "description": "# ~~                                                   ~~\n-# **Claim Role Di Bawah Ini Untuk Menentukan:**\n\n-# <@&1524990187871010949> : Kebereanian\n-# <@&1524989816402481243>  :  Kesabaran\n-# <@&1524989509970821251>  : tekad\n-# <@&1524990567367311521>  : kegigihan \n-# <@&1524988907543072922> : Keadilan\n-# <@&1525015938695430264> : Kecerdasan\n-# <@&1525014664595898560>  : Kesombongan\n-# <@&1525013430958948445>  : Keserakahan\n-# <@&1525013140931350579>  : Kemalasan\n-# <@&1525013704339492934>  : Nafsu\n-# <@&1525014058150133830>  : Kemarahan\n-# <@&1525014299615952907>  : Kerakusan\n-# <@&1525014480738713651>  : Iri Hati\n\n-# ⛔  HANYA BISA PILIH 1 ROLE \n# ~~                                                   ~~",
+    "color": "#3498db",
+    "footer": null,
+    "buttons": []
+  },
+  "Role Takdir Memulai Hidup": {
+    "channelId": "1521936990403301529",
+    "messageId": "1525031052513382443",
+    "title": "PILIH JALAN TAKDIR MU UNTUK MEMULAI HIDUP",
+    "description": "# ~~                                                   ~~\n-# **Claim Role Di Bawah Ini Untuk Menentukan:**\n\n-# <@&1524990187871010949> : Kebereanian\n-# <@&1524989816402481243>  :  Kesabaran\n-# <@&1524989509970821251>  : tekad\n-# <@&1524990567367311521>  : kegigihan \n-# <@&1524988907543072922> : Keadilan\n-# <@&1525015938695430264> : Kecerdasan\n-# <@&1525014664595898560>  : Kesombongan\n-# <@&1525013430958948445>  : Keserakahan\n-# <@&1525013140931350579>  : Kemalasan\n-# <@&1525013704339492934>  : Nafsu\n-# <@&1525014058150133830>  : Kemarahan\n-# <@&1525014299615952907>  : Kerakusan\n-# <@&1525014480738713651>  : Iri Hati\n\n-# ⛔ HANYA BISA PILIH 1 ROLE \n# ~~                                                   ~~",
+    "color": "#3498db",
+    "footer": null,
+    "buttons": [
+      {
+        "roleId": "1524990187871010949",
+        "label": "Keberanian",
+        "emoji": "💛"
+      },
+      {
+        "roleId": "1524989816402481243",
+        "label": "Kesabaran",
+        "emoji": "🩵"
+      },
+      {
+        "roleId": "1524989509970821251",
+        "label": "Tekad",
+        "emoji": "❤"
+      },
+      {
+        "roleId": "1524990567367311521",
+        "label": "Kegigihan",
+        "emoji": "💜"
+      },
+      {
+        "roleId": "1524988907543072922",
+        "label": "Keadilan",
+        "emoji": "💛"
+      },
+      {
+        "roleId": "1525015938695430264",
+        "label": "Kecerdasan",
+        "emoji": "🤍"
+      }
+    ]
+  },
+  "Role Takdir Memulai Hidup2": {
+    "channelId": "1521936990403301529",
+    "messageId": "1525045912446177411",
+    "title": "PILIHAN 2 JALAN TAKDIR MU UNTUK MEMULAI HIDUP",
+    "description": "Custom Description",
+    "color": "#0099ff",
+    "footer": null,
+    "buttons": []
+  },
+  "Takdir Memulai Hidup": {
+    "channelId": "1521936990403301529",
+    "messageId": "1525046086929088544",
+    "title": "Custom Title",
+    "description": "# PILIHAN 2 JALAN TAKDIR MU UNTUK MEMULAI HIDUP",
+    "color": "#0099ff",
+    "footer": null,
+    "buttons": []
+  },
+  "Tttr": {
+    "channelId": "1521936990403301529",
+    "messageId": "1525046389686534145",
+    "title": "PILIH JALAN TAKDIR MU UNTUK MEMULAI HIDUP",
+    "description": "# ~~                                                   ~~\n-# **Claim Role Di Bawah Ini Untuk Menentukan:**\n\n-# <@&1525014664595898560>  : Kesombongan\n-# <@&1525013430958948445>  : Keserakahan\n-# <@&1525013140931350579>  : Kemalasan\n-# <@&1525013704339492934>  : Nafsu\n-# <@&1525014058150133830>  : Kemarahan\n-# <@&1525014299615952907>  : Kerakusan\n-# <@&1525014480738713651>  : Iri Hati\n\n-# ⛔ HANYA BISA PILIH 1 ROLE \n# ~~                                                   ~~",
+    "color": "#3498db",
+    "footer": null,
+    "buttons": [
+      {
+        "roleId": "1525014664595898560",
+        "label": "Kesombongan",
+        "emoji": "♥"
+      },
+      {
+        "roleId": "1525013430958948445",
+        "label": "Keserakahan",
+        "emoji": "💚"
+      },
+      {
+        "roleId": "1525013140931350579",
+        "label": "Kemalasan",
+        "emoji": "💙"
+      },
+      {
+        "roleId": "1525013704339492934",
+        "label": "Nafsu",
+        "emoji": "🧡"
+      },
+      {
+        "roleId": "1525014299615952907",
+        "label": "Kerakusan",
+        "emoji": "💛"
+      },
+      {
+        "roleId": "1525014480738713651",
+        "label": "Iri Hati",
+        "emoji": "🩷"
+      }
+    ]
+  },
+  "Es": {
+    "channelId": "1522598040744104048",
+    "messageId": "1525095158071431310",
+    "title": "Tes",
+    "description": "Tes",
+    "color": "#FFFFFF",
+    "footer": null,
+    "buttons": []
+  }
+}

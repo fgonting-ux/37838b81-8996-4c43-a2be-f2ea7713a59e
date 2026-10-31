@@ -1,0 +1,276 @@
+{
+  "guilds": {
+    "1496773664748732446": {
+      "logChannelId": null,
+      "users": {
+        "1425924622666436690": {
+          "count": 5,
+          "history": [
+            {
+              "reason": "Menggunakan kata kasar atau menghina (KATA_KASAR)",
+              "moderatorId": "1522438631846055988",
+              "source": "AUTO",
+              "timestamp": "2026-07-11T02:53:22.540Z"
+            },
+            {
+              "reason": "Menggunakan kata kasar atau menghina (KATA_KASAR)",
+              "moderatorId": "1522438631846055988",
+              "source": "AUTO",
+              "timestamp": "2026-07-11T02:53:26.079Z"
+            },
+            {
+              "reason": "Menggunakan kata kasar atau menghina (KATA_KASAR)",
+              "moderatorId": "1522438631846055988",
+              "source": "AUTO",
+              "timestamp": "2026-07-11T02:53:32.326Z"
+            },
+            {
+              "reason": "Spam",
+              "moderatorId": "929425755098734603",
+              "source": "MANUAL",
+              "timestamp": "2026-07-11T02:55:17.401Z"
+            },
+            {
+              "reason": "max warn",
+              "moderatorId": "929425755098734603",
+              "source": "MANUAL",
+              "timestamp": "2026-07-11T02:55:30.679Z"
+            }
+          ]
+        },
+        "1434101803640688640": {
+          "count": 2,
+          "history": [
+            {
+              "reason": "Mengirim link yang tidak diizinkan (LINK)",
+              "moderatorId": "1522438631846055988",
+              "source": "AUTO",
+              "timestamp": "2026-07-11T03:02:36.578Z"
+            },
+            {
+              "reason": "Mengirim link yang tidak diizinkan (LINK)",
+              "moderatorId": "1522438631846055988",
+              "source": "AUTO",
+              "timestamp": "2026-07-11T03:02:48.922Z"
+            }
+          ]
+        },
+        "1313971905585348722": {
+          "count": 2,
+          "history": [
+            {
+              "reason": "Mengirim link yang tidak diizinkan (LINK)",
+              "moderatorId": "1522438631846055988",
+              "source": "AUTO",
+              "timestamp": "2026-07-11T03:37:58.784Z"
+            },
+            {
+              "reason": "Mengirim link yang tidak diizinkan (LINK)",
+              "moderatorId": "1522438631846055988",
+              "source": "AUTO",
+              "timestamp": "2026-07-11T03:39:20.050Z"
+            }
+          ]
+        },
+        "1358351123395776655": {
+          "count": 1,
+          "history": [
+            {
+              "reason": "Mengirim link yang tidak diizinkan (LINK)",
+              "moderatorId": "1522438631846055988",
+              "source": "AUTO",
+              "timestamp": "2026-07-11T04:16:45.453Z"
+            }
+          ]
+        },
+        "1390721111007821987": {
+          "count": 1,
+          "history": [
+            {
+              "reason": "Menggunakan kata kasar atau menghina (KATA_KASAR)",
+              "moderatorId": "1522438631846055988",
+              "source": "AUTO",
+              "timestamp": "2026-07-11T05:07:02.231Z"
+            }
+          ]
+        },
+        "707407127202758807": {
+          "count": 1,
+          "history": [
+            {
+              "reason": "Mengirim link yang tidak diizinkan (LINK)",
+              "moderatorId": "1522438631846055988",
+              "source": "AUTO",
+              "timestamp": "2026-07-11T05:07:45.393Z"
+            }
+          ]
+        },
+        "977436375374778469": {
+          "count": 2,
+          "history": [
+            {
+              "reason": "Mengirim link yang tidak diizinkan (LINK)",
+              "moderatorId": "1522438631846055988",
+              "source": "AUTO",
+              "timestamp": "2026-07-12T08:46:17.701Z"
+            },
+            {
+              "reason": "Mengirim link yang tidak diizinkan (LINK)",
+              "moderatorId": "1522438631846055988",
+              "source": "AUTO",
+              "timestamp": "2026-07-12T08:47:01.355Z"
+            }
+          ]
+        },
+        "633936088213356574": {
+          "count": 1,
+          "history": [
+            {
+              "reason": "Mengirim link yang tidak diizinkan (LINK)",
+              "moderatorId": "1522438631846055988",
+              "source": "AUTO",
+              "timestamp": "2026-07-12T10:05:02.007Z"
+            }
+          ]
+        },
+        "769464119681482792": {
+          "count": 2,
+          "history": [
+            {
+              "reason": "Mengirim link yang tidak diizinkan (LINK)",
+              "moderatorId": "1522438631846055988",
+              "source": "AUTO",
+              "timestamp": "2026-07-12T13:46:49.077Z"
+            },
+            {
+              "reason": "Mengirim link yang tidak diizinkan (LINK)",
+              "moderatorId": "1522438631846055988",
+              "source": "AUTO",
+              "timestamp": "2026-07-13T14:32:49.415Z"
+            }
+          ]
+        },
+        "692312895769411605": {
+          "count": 1,
+          "history": [
+            {
+              "reason": "Menggunakan kata kasar atau menghina (KATA_KASAR)",
+              "moderatorId": "1522438631846055988",
+              "source": "AUTO",
+              "timestamp": "2026-07-13T05:38:45.681Z"
+            }
+          ]
+        },
+        "1400721665830420570": {
+          "count": 2,
+          "history": [
+            {
+              "reason": "Menggunakan kata kasar atau menghina (KATA_KASAR)",
+              "moderatorId": "1522438631846055988",
+              "source": "AUTO",
+              "timestamp": "2026-07-13T12:48:10.459Z"
+            },
+            {
+              "reason": "Menggunakan kata kasar atau menghina (KATA_KASAR)",
+              "moderatorId": "1522438631846055988",
+              "source": "AUTO",
+              "timestamp": "2026-07-13T12:48:25.245Z"
+            }
+          ]
+        },
+        "571999497635495936": {
+          "count": 1,
+          "history": [
+            {
+              "reason": "Mengirim link yang tidak diizinkan (LINK)",
+              "moderatorId": "1522438631846055988",
+              "source": "AUTO",
+              "timestamp": "2026-07-13T12:49:25.911Z"
+            }
+          ]
+        },
+        "1043076281316683856": {
+          "count": 5,
+          "history": [
+            {
+              "reason": "Menggunakan kata kasar atau menghina (KATA_KASAR)",
+              "moderatorId": "1522438631846055988",
+              "source": "AUTO",
+              "timestamp": "2026-07-13T14:24:02.082Z"
+            },
+            {
+              "reason": "Menggunakan kata kasar atau menghina (KATA_KASAR)",
+              "moderatorId": "1522438631846055988",
+              "source": "AUTO",
+              "timestamp": "2026-07-13T14:29:00.019Z"
+            },
+            {
+              "reason": "Menggunakan kata kasar atau menghina (KATA_KASAR)",
+              "moderatorId": "1522438631846055988",
+              "source": "AUTO",
+              "timestamp": "2026-07-13T14:29:47.379Z"
+            },
+            {
+              "reason": "Menggunakan kata kasar atau menghina (KATA_KASAR)",
+              "moderatorId": "1522438631846055988",
+              "source": "AUTO",
+              "timestamp": "2026-07-13T15:07:03.657Z"
+            },
+            {
+              "reason": "Menggunakan kata kasar atau menghina (KATA_KASAR)",
+              "moderatorId": "1522438631846055988",
+              "source": "AUTO",
+              "timestamp": "2026-07-13T15:07:51.271Z"
+            },
+            {
+              "reason": "Menggunakan kata kasar atau menghina (KATA_KASAR)",
+              "moderatorId": "1522438631846055988",
+              "source": "AUTO",
+              "timestamp": "2026-07-13T15:09:21.758Z"
+            },
+            {
+              "reason": "Menggunakan kata kasar atau menghina (KATA_KASAR)",
+              "moderatorId": "1522438631846055988",
+              "source": "AUTO",
+              "timestamp": "2026-07-20T10:09:09.797Z"
+            }
+          ]
+        },
+        "1372481314019868743": {
+          "count": 1,
+          "history": [
+            {
+              "reason": "Mengirim link yang tidak diizinkan (LINK)",
+              "moderatorId": "1522438631846055988",
+              "source": "AUTO",
+              "timestamp": "2026-07-17T14:01:15.781Z"
+            }
+          ]
+        },
+        "1293492239254814765": {
+          "count": 1,
+          "history": [
+            {
+              "reason": "Mengirim link yang tidak diizinkan (LINK)",
+              "moderatorId": "1522438631846055988",
+              "source": "AUTO",
+              "timestamp": "2026-07-20T05:44:18.207Z"
+            }
+          ]
+        },
+        "1271824729657049098": {
+          "count": 1,
+          "history": [
+            {
+              "reason": "Menggunakan kata kasar atau menghina (KATA_KASAR)",
+              "moderatorId": "1522438631846055988",
+              "source": "AUTO",
+              "timestamp": "2026-07-20T07:28:49.387Z"
+            }
+          ]
+        }
+      },
+      "safeChannelId": "1496773666451750944"
+    }
+  }
+}
